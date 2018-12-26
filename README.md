@@ -11,4 +11,4 @@ HTML Mobil Responsive Oluşturmak için Türkçe Kaynak dosyası Oluşturmak İs
 3-Html sayfanıza head kısmına css dosyayı çağırın. 
 <link rel="stylesheet" type="text/css" href="css/responsive.css">
 
-İsterseniz Dosyayı indirip direk Sitenizi hazırlamaya başkayabilirsiniz.
+İsterseniz Dosyayı direk indirip sitenizi hazırlamaya başlayabilirsiniz.
