@@ -1,6 +1,13 @@
 # Responsive CSS Türkçe
 Responsive CSS Türkçe
 
+HTML Mobil Responsive Oluşturmak için Türkçe Kaynak dosyası Oluşturmak İstedim.
+
+1- Html sayfanıza head Kısmına Metayı ekleyin
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+2- responsive.css dosyası oluşturup aşağıdaki kodları yapıştırın.
+
 /* Ekstra küçük cihazlar (telefonlar, 600px ve aşağı) */
 @media only screen and (max-width: 600px) {
 //CSS Kodları Buraya Gelecek.
@@ -25,3 +32,6 @@ Responsive CSS Türkçe
 @media only screen and (min-width: 1200px) {
 //CSS Kodları Buraya Gelecek.
 }
+
+ 3-Html sayfanıza head kısmına css dosyayı çağırın. <link rel="stylesheet" type="text/css" href="css/responsive.css">
+
